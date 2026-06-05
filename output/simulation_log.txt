@@ -1,0 +1,1318 @@
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (30.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (29.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (28.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (27.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (26.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (25.0%)
+Vehicle EV_0 assigned to cs_11
+EV_0 battery low (24.0%)
+Vehicle EV_0 assigned to cs_11
+EV_0 battery low (23.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (30.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (29.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (28.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (27.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (26.0%)
+Vehicle EV_3 assigned to cs_4
+EV_3 battery low (25.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (24.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (30.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (29.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (28.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (27.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (26.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (25.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (24.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (23.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (30.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (22.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (29.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (21.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (28.0%)
+Vehicle EV_7 assigned to cs_2
+EV_7 battery low (20.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (27.0%)
+Vehicle EV_7 assigned to cs_2
+EV_7 battery low (19.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (26.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (25.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (24.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (23.0%)
+EV_0 charging completed
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (30.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (22.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (29.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (21.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (28.0%)
+Vehicle EV_9 assigned to cs_2
+EV_9 battery low (20.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (27.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (26.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (25.0%)
+EV_3 charging completed
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (24.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (23.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (22.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (21.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (20.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (19.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (18.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (17.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (16.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (30.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (30.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (15.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (29.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (29.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (14.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (28.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (28.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (13.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (27.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (27.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (12.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (26.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (26.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (11.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (25.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (25.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (10.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (24.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (24.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (9.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (23.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (23.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (8.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (22.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (22.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (7.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (21.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (21.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (6.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (20.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (20.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (5.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (19.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (19.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (4.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (18.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (18.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (3.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (17.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (17.0%)
+EV_7 charging completed
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (2.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (16.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (16.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (1.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (15.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (15.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (14.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (14.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (13.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (13.0%)
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (12.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (12.0%)
+EV_9 charging completed
+Vehicle EV_14 assigned to cs_11
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (11.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (11.0%)
+Vehicle EV_14 assigned to cs_2
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (10.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (10.0%)
+Vehicle EV_14 assigned to cs_2
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (9.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (9.0%)
+Vehicle EV_14 assigned to cs_2
+EV_14 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (8.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (8.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (7.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (7.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (6.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (6.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (5.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (5.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (4.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (4.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (3.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (3.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (2.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (2.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (1.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (1.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+EV_7 charging completed
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+EV_9 charging completed
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (30.0%)
+EV_0 charging completed
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (29.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (28.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (27.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (26.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (25.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (24.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (23.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (22.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (21.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (20.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (19.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (18.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (17.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (16.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (15.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (14.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (13.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (12.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (11.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (10.0%)
+EV_14 charging completed
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (9.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (8.0%)
+Vehicle EV_18 assigned to cs_2
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (7.0%)
+Vehicle EV_18 assigned to cs_2
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (6.0%)
+Vehicle EV_18 assigned to cs_2
+EV_18 battery low (0.0%)
+Vehicle EV_19 assigned to cs_11
+EV_19 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (5.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (4.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (3.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (2.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (1.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+EV_14 charging completed
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+EV_18 charging completed
+EV_19 charging completed
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_2
+EV_3 battery low (0.0%)
+Vehicle EV_3 assigned to cs_2
+EV_3 battery low (0.0%)
+EV_18 charging completed
+EV_3 charging completed
+EV_3 charging completed
+Vehicle EV_1 assigned to cs_4
+EV_1 battery low (30.0%)
+Vehicle EV_1 assigned to cs_4
+EV_1 battery low (29.0%)
+Vehicle EV_1 assigned to cs_4
+EV_1 battery low (28.0%)
+Vehicle EV_1 assigned to cs_4
+EV_1 battery low (27.0%)
+Vehicle EV_1 assigned to cs_4
+EV_1 battery low (26.0%)
+Vehicle EV_1 assigned to cs_11
+EV_1 battery low (25.0%)
+Vehicle EV_1 assigned to cs_11
+EV_1 battery low (24.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (30.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (29.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (28.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (27.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (26.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (30.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (25.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (29.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (24.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (28.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (23.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (27.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (22.0%)
+Vehicle EV_11 assigned to cs_11
+EV_11 battery low (26.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (21.0%)
+Vehicle EV_11 assigned to cs_11
+EV_11 battery low (25.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (20.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (19.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (30.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (18.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (30.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (29.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (17.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (29.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (28.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (16.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (28.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (27.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (15.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (30.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (27.0%)
+Vehicle EV_9 assigned to cs_11
+EV_9 battery low (26.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (14.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (29.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (26.0%)
+Vehicle EV_9 assigned to cs_2
+EV_9 battery low (25.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (13.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (28.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (25.0%)
+Vehicle EV_9 assigned to cs_2
+EV_9 battery low (24.0%)
+EV_1 charging completed
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (12.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (27.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (24.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (11.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (26.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (23.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (10.0%)
+Vehicle EV_13 assigned to cs_11
+EV_13 battery low (25.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (22.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (30.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (9.0%)
+Vehicle EV_13 assigned to cs_2
+EV_13 battery low (24.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (21.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (29.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (8.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (20.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (28.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (7.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (19.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (27.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (6.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (18.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (26.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (5.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (17.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (25.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (4.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (16.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (24.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (3.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (15.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (23.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (2.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (14.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (22.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (1.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (13.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (21.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (12.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (20.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (11.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (19.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (10.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (18.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (9.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (30.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (17.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (8.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (29.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (16.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (7.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (28.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (15.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (6.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (27.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (14.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (5.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (26.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (13.0%)
+EV_11 charging completed
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (4.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (25.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (12.0%)
+Vehicle EV_12 assigned to cs_4
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (3.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (24.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (11.0%)
+Vehicle EV_12 assigned to cs_11
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (2.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (23.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (10.0%)
+Vehicle EV_12 assigned to cs_11
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_4
+EV_16 battery low (1.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (22.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (9.0%)
+Vehicle EV_12 assigned to cs_11
+EV_12 battery low (0.0%)
+Vehicle EV_16 assigned to cs_11
+EV_16 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (21.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (8.0%)
+Vehicle EV_16 assigned to cs_11
+EV_16 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (20.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (7.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (19.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (6.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (18.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (5.0%)
+EV_9 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (17.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (4.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (16.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (3.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (15.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (2.0%)
+EV_13 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (14.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (1.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (13.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (12.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (11.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (10.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (9.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (8.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (7.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (6.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (5.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (4.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (3.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (2.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_11 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (1.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_9 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_13 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_1 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_12 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+EV_16 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_4
+EV_18 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+Vehicle EV_18 assigned to cs_11
+EV_18 battery low (0.0%)
+EV_12 charging completed
+EV_16 charging completed
+EV_17 charging completed
+EV_18 charging completed
+EV_17 charging completed
+EV_18 charging completed
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (30.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (29.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (28.0%)
+Vehicle EV_0 assigned to cs_4
+EV_0 battery low (27.0%)
+Vehicle EV_0 assigned to cs_11
+EV_0 battery low (26.0%)
+Vehicle EV_0 assigned to cs_11
+EV_0 battery low (25.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (30.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (29.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (28.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (27.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (30.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (26.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (29.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (25.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (28.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (24.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (27.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (23.0%)
+Vehicle EV_4 assigned to cs_11
+EV_4 battery low (30.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (26.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (22.0%)
+Vehicle EV_4 assigned to cs_11
+EV_4 battery low (29.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (25.0%)
+Vehicle EV_3 assigned to cs_11
+EV_3 battery low (21.0%)
+Vehicle EV_4 assigned to cs_11
+EV_4 battery low (28.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (24.0%)
+Vehicle EV_3 assigned to cs_2
+EV_3 battery low (20.0%)
+Vehicle EV_4 assigned to cs_11
+EV_4 battery low (27.0%)
+Vehicle EV_7 assigned to cs_4
+EV_7 battery low (23.0%)
+Vehicle EV_3 assigned to cs_2
+EV_3 battery low (19.0%)
+Vehicle EV_4 assigned to cs_11
+EV_4 battery low (26.0%)
+Vehicle EV_7 assigned to cs_11
+EV_7 battery low (22.0%)
+Vehicle EV_4 assigned to cs_2
+EV_4 battery low (25.0%)
+Vehicle EV_4 assigned to cs_2
+EV_4 battery low (24.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (30.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (29.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (28.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (27.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (26.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (25.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (24.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (23.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (22.0%)
+EV_0 charging completed
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (21.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (20.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (30.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (19.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (29.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (18.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (28.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (17.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (27.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (16.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (26.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (15.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (25.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (14.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (24.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (13.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (23.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (12.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (22.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (11.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (21.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (10.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (20.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (9.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (19.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (8.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (18.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (7.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (17.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (6.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (16.0%)
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (5.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (15.0%)
+EV_7 charging completed
+Vehicle EV_11 assigned to cs_4
+EV_11 battery low (4.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (14.0%)
+EV_4 charging completed
+Vehicle EV_11 assigned to cs_11
+EV_11 battery low (3.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (13.0%)
+EV_3 charging completed
+Vehicle EV_11 assigned to cs_11
+EV_11 battery low (2.0%)
+Vehicle EV_15 assigned to cs_4
+EV_15 battery low (12.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (30.0%)
+Vehicle EV_11 assigned to cs_11
+EV_11 battery low (1.0%)
+Vehicle EV_15 assigned to cs_11
+EV_15 battery low (11.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (29.0%)
+Vehicle EV_15 assigned to cs_11
+EV_15 battery low (10.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (28.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (27.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (26.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (25.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (24.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (23.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (22.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (21.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (20.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (19.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (18.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (17.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (16.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (15.0%)
+EV_0 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (14.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (13.0%)
+EV_3 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (12.0%)
+EV_4 charging completed
+EV_7 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (11.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (10.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (9.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (8.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (7.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (6.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (5.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (4.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (3.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (2.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (1.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+EV_15 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+EV_11 charging completed
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_4
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+Vehicle EV_17 assigned to cs_11
+EV_17 battery low (0.0%)
+EV_11 charging completed
+EV_15 charging completed
+EV_17 charging completed
+EV_17 charging completed
